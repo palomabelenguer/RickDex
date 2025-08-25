@@ -3,8 +3,8 @@
 //  RickDex
 //
 //  Created by Paloma Belenguer on 25/8/25.
-//
-
+///// Lista principal de personajes.
+///  Muestra loading inicial, error con retry y paginación; navega a detalle.
 import SwiftUI
 
 struct CharacterListView: View {

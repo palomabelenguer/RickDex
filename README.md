@@ -5,7 +5,7 @@ Pequeña app que consume la API pública de Rick & Morty y muestra personajes en
 - **API pública**: https://rickandmortyapi.com  
 - **Endpoint (GET)**: https://rickandmortyapi.com/api/character
 - **Arquitectura**: MVVM
-- **iOS Target**: iOS 17+
+- **iOS Target**: iOS 18
 - **Xcode**: 15+
 
 ## Qué hace
@@ -16,7 +16,7 @@ Pequeña app que consume la API pública de Rick & Morty y muestra personajes en
 
 ## Cómo correr
 1. Abre el proyecto en Xcode (15+).
-2. iOS Deployment Target: 17.0.
+2. iOS Deployment Target: 18.0.
 3. Run en simulador o dispositivo.
 
 ## Commits sugeridos
